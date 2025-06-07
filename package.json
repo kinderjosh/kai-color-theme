@@ -1,0 +1,21 @@
+{
+  "name": "kai-ki-theme",
+  "displayName": "kai-ki-theme",
+  "description": "The Kai color theme for the Ki programming language.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kai-color-theme.json"
+      }
+    ]
+  }
+}
