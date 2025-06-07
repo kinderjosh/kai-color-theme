@@ -9,6 +9,11 @@
   "categories": [
     "Themes"
   ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kinderjosh/kai-color-theme.git"
+  },
   "contributes": {
     "themes": [
       {
