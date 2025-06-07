@@ -1,7 +1,7 @@
 {
   "publisher": "kinderjosh",
-  "name": "Kai Color Theme for VSCode",
-  "displayName": "kai-ki-theme",
+  "name": "kai-ki-theme",
+  "displayName": "Kai Color Theme for VSCode",
   "description": "The Kai color theme for the Ki programming language.",
   "version": "0.1.0",
   "engines": {
