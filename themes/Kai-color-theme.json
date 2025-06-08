@@ -22,7 +22,8 @@
 		"dropdown.listBackground": "#0e0c0c",
 		"titleBar.activeBackground": "#0e0c0c",
 		"editorWidget.background": "#0e0c0c",
-		"sideBarSectionHeader.background": "#1a1919"
+		"sideBarSectionHeader.background": "#1a1919",
+		"statusBar.background": "#0e0c0c"
 	},
 	"tokenColors": [
 		{
