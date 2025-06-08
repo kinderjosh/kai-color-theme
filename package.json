@@ -3,7 +3,7 @@
   "name": "kai-ki-theme",
   "displayName": "Kai Color Theme for VSCode",
   "description": "The Kai color theme for the Ki programming language.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.100.0"
   },
